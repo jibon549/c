@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main();
+{
+   int number;
+   printf("Decimal number = ");
+   scanf("%d",&number);
+
+   printf("hexadecimal number = %x",number);
+   return 0;
+
+
+
+
+
+
+
+
+
+}
